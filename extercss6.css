@@ -1,0 +1,308 @@
+*{
+	
+	margin:0px;
+	padding:0px;
+}
+#header{
+       background-color:#FFF8DC;
+	   height:80px;
+	   width:1200px;
+	   margin:0px;
+	   font-size:33px;
+	   border:1px solid;
+	   
+	  
+	   
+    
+}
+span{
+	
+	color:green;
+	
+}
+#submenu{
+	
+	height:40px;
+	background-color:black;
+	border-color:orange;
+	width:1200px;
+	
+}
+#submenu ul{
+	list-style:none;
+}
+ 
+#submenu ul li{
+
+	
+    float:left;
+    color:white;
+     margin:15px; 	
+	text-decoration:none; 
+	 
+      	
+}
+#submenu ul li:hover{
+	
+	 background-color:green;
+	
+
+	 
+	
+}
+
+#mar{
+	font-size:38px;
+	color:orange;
+	background-color:black;
+	loop:3;
+	behaviour:alternative;
+	margin:0px;
+	width:1200px;
+	
+	
+}
+#ht1{
+	
+	width:120px;
+	height:90px;
+	
+	
+}
+#ht{
+	font-size:25px;
+	 background-color:black;
+	 color:orange;	
+   width:1200x;	 
+	  
+}
+#bu{
+	
+	background-color:black;
+	font-size:25px;
+	color:orange;
+	height:30px;
+	width:1200px;
+	margin:6px;
+	
+}
+#bu1{
+	
+		text-align:right;
+}
+dl{
+	background-color:red;
+	
+	
+}
+#t1{
+	
+	background-color:green;
+	height:80px;
+	width:1200px;
+	
+}
+#ed{
+    background-color:black;
+	color:orange;
+     height:120px;
+      width:1200px;
+	   
+}
+i{
+	color:orange;
+	font-size:20px;
+	
+	
+}
+#tj{
+	background-color:black;
+	list-style:none;
+	margin:0px;
+	height:480px;
+	width:1200px;
+	color:red;
+}
+im12{
+	
+	text-align:left;
+	
+}
+h1{
+	
+	text-shadow:2px 2px black;
+	
+	 
+}
+
+	
+	
+	
+	
+*{
+	
+	margin:0px;
+	padding:0px;
+}
+#header{
+       background-color:#FFF8DC;
+	   height:80px;
+	   width:1345px;
+	   margin:0px;
+	   font-size:33px;
+	   border:1px solid;
+	   
+	  
+	   
+    
+}
+span{
+	
+	color:green;
+	
+}
+#submenu{
+	
+	height:40px;
+	background-color:black;
+	border-color:orange;
+	width:1347px;
+}
+#submenu ul{
+	list-style:none;
+}
+ 
+#submenu ul li{
+
+	
+    float:left;
+    color:white;
+     margin:15px; 	
+	 
+      	
+}
+
+#mar{
+	font-size:38px;
+	color:orange;
+	background-color:black;
+	loop:3;
+	behaviour:alternative;
+	margin:0px;
+	width:1347px;
+	
+	
+}
+#ht{
+	font-size:25px;
+	 background-color:black;
+	 color:orange;	
+   width:1347px;	 
+	  
+}
+#bu{
+	
+	background-color:black;
+	font-size:25px;
+	color:orange;
+	height:30px;
+	width:180px;
+	margin:6px;
+	
+}
+#bu1{
+	
+		text-align:center; 
+		background-color:black;
+		color:orange;
+		height:34px;
+		width:180px;
+		margin:6px;
+		font-size:25px;
+		border:3px solid gray;
+		padding:0px;
+}
+#bu2{
+	
+	
+	text-align:center; 
+		background-color:black;
+		color:orange;
+		height:34px;
+		width:180px;
+		margin:6px;
+		font-size:25px;
+		border:3px solid gray;
+		padding:0px;
+	
+}
+dl{
+	background-color:red;
+	
+	
+}
+#t1{
+	
+	background-color:green;
+	height:80px;
+	width:120px;
+	
+}
+#ed{
+    background-color:black;
+	color:orange;
+     height:120px;
+      width:1347px;
+}
+i{
+	color:orange;
+	font-size:20px;
+	
+	
+}
+#tj{
+	background-color:black;
+	list-style:none;
+	margin:0px;
+	height:380px;
+	width:1347px;
+	color:red;
+}
+im12{
+	
+	text-align:left;
+	
+}
+h1{
+	
+	text-shadow:2px 2px black;
+	
+}
+#ht{
+	
+	animation: mymove 5s infinite;
+    animation-delay: 2s;
+	
+}
+	
+@keyframes mymove{
+	
+from{left:0px;}
+to{left: 200px;}
+
+	
+}
+#tj h3{
+	
+	color:orange;
+	
+}
+h3{
+	
+	color:red;
+	
+	
+	
+}
+
+
